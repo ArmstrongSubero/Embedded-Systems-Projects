@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/GP01_IoT_Plant.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>1426</used>
+      <free>14958</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131298</length>
+      <used>24111</used>
+      <free>107187</free>
+    </memory>
+  </executable>
+</project>
