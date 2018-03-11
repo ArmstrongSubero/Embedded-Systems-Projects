@@ -1,0 +1,3 @@
+This is a IoT plant monitor device that reads the soil moisture content, temperature and lighting conditions of a plant then via bluetooth 
+relays the message to a smartphone or PC based bluetooth enabled device. This first iteration utilizes a dsPIC DSP and runs on NiMh 
+batteries.
