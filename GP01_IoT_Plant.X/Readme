@@ -1,3 +1,6 @@
 This is a IoT plant monitor device that reads the soil moisture content, temperature and lighting conditions of a plant then via bluetooth 
-relays the message to a smartphone or PC based bluetooth enabled device. This first iteration utilizes a dsPIC DSP and runs on NiMh 
+relays the message to a smartphone or PC based bluetooth enabled device as the plant being "happy or sad". This first iteration utilizes a dsPIC DSP and runs on NiMh 
 batteries.
+
+The information about the plant is also displayed on an OLED attached to the microcontroller, which displays "happy" or "sad" along with
+an image of the mood of the plant and tells the user if it is too dark or there is not enough water in the plant. 
